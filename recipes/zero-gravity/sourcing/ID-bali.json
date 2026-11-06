@@ -3,19 +3,9 @@
   "country": "ID",
   "city": "Bali",
   "currency": "IDR",
-  "checked_on": null,
-  "notes": "initial research scaffold; no seller, price, stock, delivery, or compatibility has been verified.",
+  "checked_on": "2026-11-06",
+  "notes": "tokopedia listing prices in IDR on 2026-11-06 after seller discounts, not necessarily what was paid.",
   "items": [
-    {
-      "component_id": "recliner",
-      "model": null,
-      "url": null,
-      "price": null,
-      "status": "candidate",
-      "checked_on": null,
-      "evidence": null,
-      "notes": "awaiting contributor details; verify all component requirements"
-    },
     {
       "component_id": "desk",
       "model": null,
@@ -24,37 +14,87 @@
       "status": "candidate",
       "checked_on": null,
       "evidence": null,
-      "notes": "awaiting contributor details; verify all component requirements"
+      "notes": "a height-adjustable desk is better, so you can get out of the setup easily. place the recliner beside the desk, not rolled under it, otherwise getting up is awkward."
+    },
+    {
+      "component_id": "recliner",
+      "model": "Funbear Kursi Malas Lipat Portable Bahan Jaring Karbon Steel Kursi Rebahan Santai Selonjoran Lipat Outdoor Indoor Awet Kokoh - HITAM",
+      "url": "https://www.tokopedia.com/funbear-outdoorshop/fun-bear-kursi-lipat-outdoor-zero-gravity-kursi-malas-santai-adjustable-tahan-150kg-kursi-jemur-lipat-portable-1734628664591615216-1734628781685310704",
+      "price": 554900,
+      "status": "candidate",
+      "checked_on": "2026-11-06",
+      "evidence": null,
+      "notes": "place it beside the desk, not rolled under it; otherwise getting up is awkward."
+    },
+    {
+      "component_id": "recliner",
+      "model": "CICIDO Bantal Mobil Zero Gravity Sandaran Kepala Leher Pengemudi Car Headrest Support Cooling Memory Foam - Headrest",
+      "url": "https://www.tokopedia.com/cicido-indonesia/cicido-bantal-mobil-zero-gravity-sandaran-kepala-leher-pengemudi-car-headrest-support-cooling-memory-foam-1733207854700070071",
+      "price": 444000,
+      "status": "candidate",
+      "checked_on": "2026-11-06",
+      "evidence": null,
+      "notes": "head and neck support."
     },
     {
       "component_id": "laptop-arm",
-      "model": null,
-      "url": null,
-      "price": null,
+      "model": "Oximus ZD1104 Desk Clamp Bracket Monitor 17\" - 32\" Inch",
+      "url": "https://www.tokopedia.com/tokobaruofficial/oximus-zd1104-desk-clamp-bracket-monitor-17-32-inch-1731627855324284630",
+      "price": 170000,
       "status": "candidate",
-      "checked_on": null,
+      "checked_on": "2026-11-06",
       "evidence": null,
-      "notes": "awaiting contributor details; verify all component requirements"
+      "notes": "arm for the laptop tray. lets the laptop sit below desk level, right over the legs."
+    },
+    {
+      "component_id": "laptop-arm",
+      "model": "NORTH BAYOU FP2 10\"-17\" Laptop Desktop Holder Notebook Computer Mount Stand Laptop Clamp Accessories - BLACK",
+      "url": "https://www.tokopedia.com/proxtech/north-bayou-fp2-10-17-laptop-desktop-holder-notebook-computer-mount-stand-laptop-clamp-accessories-1733977733759468871",
+      "price": 325000,
+      "status": "candidate",
+      "checked_on": "2026-11-06",
+      "evidence": null,
+      "notes": "laptop tray. mounted on the oximus arm."
     },
     {
       "component_id": "monitor-arm",
-      "model": null,
-      "url": null,
-      "price": null,
+      "model": "NB North Bayou F100A 22 to 35 Inch Gas Strut TV Monitor Bracket f 100A",
+      "url": "https://www.tokopedia.com/northbayouofficial/nb-north-bayou-f100a-22-to-35-inch-gas-strut-tv-monitor-bracket-f-100a",
+      "price": 725175,
       "status": "candidate",
-      "checked_on": null,
+      "checked_on": "2026-11-06",
       "evidence": null,
-      "notes": "awaiting contributor details; verify all component requirements"
+      "notes": "monitor arm."
     },
     {
       "component_id": "arm-support",
-      "model": null,
-      "url": null,
-      "price": null,
+      "model": "Carvi Elbow and Armrest Pillow Arm Rest Sandaran Tangan Kursi Kerja dan Gaming - Hitam",
+      "url": "https://www.tokopedia.com/carvihome/carvi-elbow-and-armrest-pillow-arm-rest-sandaran-tangan-kursi-kerja-dan-gaming-1729880417414644771",
+      "price": 84000,
       "status": "candidate",
-      "checked_on": null,
+      "checked_on": "2026-11-06",
       "evidence": null,
-      "notes": "awaiting contributor details; verify all component requirements"
+      "notes": "forearm pads, set of 2."
+    },
+    {
+      "component_id": "arm-support",
+      "model": "Sandaran Tangan Meja Kerja Komputer Arm Rest Pad - 91526 - Hitam",
+      "url": "https://www.tokopedia.com/waldani/sandaran-tangan-meja-kerja-komputer-arm-rest-pad-91526-plastik-furniture-1729616722004575774",
+      "price": 47520,
+      "status": "candidate",
+      "checked_on": "2026-11-06",
+      "evidence": null,
+      "notes": "desk-edge forearm rest pad."
+    },
+    {
+      "component_id": "arm-support",
+      "model": "WANNAFIT Barbell Pad Foam | Pelindung Squad Squat Barbel Busa Pundak Leher | Aksesoris Fitness & Gym - Hitam",
+      "url": "https://www.tokopedia.com/wannafitofficial/barbell-pad-foam-wannalife-pelindung-squad-squat-barbel-busa-pundak-leher-wannafit-hitam-7f09d",
+      "price": 55000,
+      "status": "candidate",
+      "checked_on": "2026-11-06",
+      "evidence": null,
+      "notes": "foam pad for the legs on the recliner: when reclined, the chair's crossbar presses on the legs."
     }
   ]
 }
